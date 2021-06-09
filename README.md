@@ -7,3 +7,8 @@ update the learning rate until it will work best for you. In my case I used the 
 
 ## How to use this model
 If you want to use this model you just need to import ```LinearRegressionModel()``` class from ```LinearRegressionModel.py``` file.
+
+### Output
+After running this project you will get the output in terminal with all information.
+
+![Project Output](https://github.com/abdul789150/Gas-Mileage-Prediction/blob/main/output.png)
